@@ -1,0 +1,11 @@
+distance_km,traffic_level,weather,order_load,delivery_time
+2,low,clear,5,15
+5,medium,rainy,10,30
+3,high,foggy,8,28
+10,high,rainy,15,50
+7,medium,clear,12,35
+1,low,clear,3,10
+6,high,foggy,11,40
+8,medium,rainy,14,45
+4,low,clear,6,20
+9,high,rainy,16,55
